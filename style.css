@@ -1,8 +1,42 @@
 body{
-    background-color: #858585;
-    font-family: 'Roboto', sans-serif;;
-}
-
-h1{
+    background-color: #606060;
+    font-family: 'Roboto', sans-serif;
     color: #fff;
 }
+
+#me-img{
+    width: 200px;
+    height: 200px;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+.title{
+    color: goldenrod;
+    font-weight: bold;
+}
+
+.hobby > .first{
+    color: yellow;
+}
+
+.hobby > .second{
+    color: #34b900;
+}
+
+.hobby > .third{
+    color: cyan;
+}
+
+.skills > .first{
+    font-size: 14px;
+}
+.skills > .second{
+    font-size: 16px;
+}
+.skills > .third{
+    font-size: 18px;
+}
+
